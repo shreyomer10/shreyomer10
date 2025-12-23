@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Shrey!
+![Profile Views](https://komarev.com/ghpvc/?username=shreyomer10&style=for-the-badge&color=blueviolet)
 
 
-Versatile **Backend and Mobile App Developer** skilled in designing scalable, secure, production-grade systems. Proficient in modern frameworks, REST API design, and cloud-native deployments. Experienced in integrating conversational AI agents to enhance user engagement. Passionate about building reliable, user-focused solutions that solve real-world problems.
+Versatile **Backend and Mobile App Developer** skilled in designing scalable, secure, production-grade systems. Proficient in modern frameworks, Generative and Agentic AI Integration, REST API design, and cloud-native deployments. Experienced in integrating conversational AI agents to enhance user engagement. Passionate about building reliable, user-focused solutions that solve real-world problems.
 
 -   **Focus Areas:** Strong in **Backend Development** and actively exploring **AWS & Cloud Technologies**.
 -   **Key Achievements:**
@@ -19,7 +20,7 @@ I leverage a variety of tools across the full stack, with a primary focus on Pyt
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C, Java, Python, Kotlin, Dart |
-| **Backend & Frameworks** | FastAPI, Flask, Flutter |
+| **Backend & Frameworks** | FastAPI, Flask, Flutter, LangChain |
 | **Databases** | NoSQL, MySQL, Firebase |
 | **Cloud & DevOps** | AWS (S3 & EC2), Git, GitHub, Vercel, Render, Github Actions, Docker |
 | **Authentication** | OAuth2, JWT |
@@ -46,6 +47,10 @@ I leverage a variety of tools across the full stack, with a primary focus on Pyt
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-FF6F00?style=for-the-badge)
 
 ---
 
@@ -55,6 +60,8 @@ I leverage a variety of tools across the full stack, with a primary focus on Pyt
 | :---: | :---: |
 | ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=shreyomer10&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyomer10&show_icons=true&theme=radical) |
 | **GitHub Streak** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyomer10&theme=radical) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyomer10&layout=compact&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shreyomer10&theme=radical&no-frame=true&row=1&column=6)
 
 ---
 
