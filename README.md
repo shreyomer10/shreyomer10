@@ -1,72 +1,259 @@
-# 👋 Hello, I'm Shrey!
-![Profile Views](https://komarev.com/ghpvc/?username=shreyomer10&style=for-the-badge&color=blueviolet)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:6366f1&height=220&section=header&text=SHREY%20OMER&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=backend%20engineer%20%7C%20building%20in%20production&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%"/>
 
-Versatile **Backend and Mobile App Developer** skilled in designing scalable, secure, production-grade systems. Proficient in modern frameworks, Generative and Agentic AI Integration, REST API design, and cloud-native deployments. Experienced in integrating conversational AI agents to enhance user engagement. Passionate about building reliable, user-focused solutions that solve real-world problems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+ssh+shrey%40production-server;%3E+deploying+fastapi+%2B+aws+%2B+docker+%2B+ai%2Fml+...)](https://shreynex.xyz)
 
--   **Focus Areas:** Strong in **Backend Development** and actively exploring **AWS & Cloud Technologies**.
--   **Key Achievements:**
-    -   **Winner** of the Tech Expo at Scintfic 2025 (IIIT Naya Raipur Attendance App).
-    -   **Finalist in HackOrbit 2025** among 400+ participating teams, MITS Gwalior (Smart Auction).
--   **Portfolio:** [**shreynex.xyz**](https://shreynex.xyz)
--   **Contact:** shrey23102@iiitnr.edu.in
--   **Location:** Raipur, Chhattisgarh
----
+<br/>
 
-## 🛠 Tech Stack
+<a href="https://shreynex.xyz"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://leetcode.com/u/shreyomer10/"><img src="https://img.shields.io/badge/LeetCode_1674-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shreyomer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shreyomer10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=shreyomer10&style=for-the-badge&color=a855f7&label=VISITORS"/>
 
-I leverage a variety of tools across the full stack, with a primary focus on Python for backend and a growing interest in cloud infrastructure.
+</div>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C, Java, Python, Kotlin, Dart |
-| **Backend & Frameworks** | FastAPI, Flask, Flutter, LangChain |
-| **Databases** | NoSQL, MySQL, Firebase |
-| **Cloud & DevOps** | AWS (S3 & EC2), Git, GitHub, Vercel, Render, Github Actions, Docker |
-| **Authentication** | OAuth2, JWT |
-<br>
+<br/>
 
-**Badges for your README:**
+<img align="right" width="300" src="https://raw.githubusercontent.com/shreyomer10/shreyomer10/output/github-snake-dark.svg"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-267B98?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-FF6F00?style=for-the-badge)
+## `> whoami`
+
+```yaml
+name: Shrey Omer
+role: Backend Developer
+location: Raipur, India
+education: B.Tech DSAI @ IIIT Naya Raipur (8.0 CGPA)
+
+currently_shipping:
+  - role: Founding Engineer @ RagX Technologies
+    building: AI-powered exam evaluation platform
+    
+  - role: Python Developer @ AFTR Labs
+    building: Medical AI platform (36+ APIs, 6-queue async pipeline)
+
+fun_facts:
+  - deployed to production before finishing 3rd year
+  - reduced claim resolution from 7 days to 3 days
+  - optimized API response from 1.2s to 340ms
+```
+
+<br clear="both"/>
 
 ---
 
-## 📈 GitHub Stats
+## `> cat /etc/arsenal`
 
-| Activity Graph | Stats & Streak |
-| :---: | :---: |
-| ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=shreyomer10&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyomer10&show_icons=true&theme=radical) |
-| **GitHub Streak** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyomer10&theme=radical) |
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyomer10&layout=compact&theme=radical)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shreyomer10&theme=radical&no-frame=true&row=1&column=6)
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  LANGUAGES        Python  ████████████████████░  95%                       ║
+║                   Java    ██████████████░░░░░░░  70%                       ║
+║                   SQL     █████████████░░░░░░░░  65%                       ║
+║                   Kotlin  ████████████░░░░░░░░░  60%                       ║
+║                   C       ██████████░░░░░░░░░░░  50%                       ║
+║  ──────────────────────────────────────────────────────────────────────────║
+║  BACKEND          FastAPI │ Flask │ REST APIs │ Microservices │ Celery     ║
+║                   WebSockets │ SSE │ Flutter                               ║
+║  ──────────────────────────────────────────────────────────────────────────║
+║  AI/ML            LangChain │ RAG Pipelines │ LLM APIs │ OCR │ NLP       ║
+║                   Vector Databases │ Embeddings                            ║
+║  ──────────────────────────────────────────────────────────────────────────║
+║  DATABASES        PostgreSQL │ MySQL │ MongoDB │ Redis │ Pinecone         ║
+║  ──────────────────────────────────────────────────────────────────────────║
+║  DEVOPS           AWS (EC2, S3) │ Docker │ Nginx │ GitHub Actions         ║
+║                   Jenkins │ CI/CD │ Git                                     ║
+║  ──────────────────────────────────────────────────────────────────────────║
+║  AUTH             JWT │ OAuth2 │ CORS │ Rate Limiting                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+</div>
 
 ---
 
-## 🔗 Connect with Me
+## `> ls -la ~/projects/`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shreynex.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-omer-71076227a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyomer10)
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://anugraha-nine.vercel.app/">Anugrah</a>
+<br/>
+<sub>Wildlife Compensation Portal</sub>
+</h3>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/shreyomer10/wildlifeCompensation)
+[![Live](https://img.shields.io/badge/Live_Demo-a855f7?style=flat-square&logo=vercel)](https://anugraha-nine.vercel.app/)
+
+</div>
+
+```diff
++ Claim resolution: 7 days → 3 days
++ AI verification: RAG + location + identity
++ GPS land measurement system
++ Role-based approval workflows
+```
+
+`Kotlin` `Flask` `MySQL` `Pinecone` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/shreyomer10/attendanceAPP_IIIT">IIITNR Attendance</a>
+<br/>
+<sub>Digital Attendance System</sub>
+</h3>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/shreyomer10/attendanceAPP_IIIT)
+
+</div>
+
+```diff
++ Replaced paper tracking for 500+ students
++ Automated low-attendance alerts
++ Student + Teacher dedicated interfaces
++ Real-time attendance checking
+```
+
+`Flutter` `Flask` `MongoDB` `OAuth 2.0`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://smartauction.vercel.app/">Smart Auction</a>
+<br/>
+<sub>Voice-Enabled Bidding Platform</sub>
+</h3>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/shreyomer10/VoiceAgent_Omnidim)
+[![Live](https://img.shields.io/badge/Live_Demo-a855f7?style=flat-square&logo=vercel)](https://smartauction.vercel.app/)
+
+</div>
+
+```diff
++ Voice-enabled real-time bidding
++ AI-assisted bidding logic (GPT-4o-mini)
++ Wallet management system
++ Admin monitoring dashboard
+```
+
+`Flask` `MongoDB` `OpenAI` `JWT` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+Building Next...
+<br/>
+<sub>Open to Collaborations</sub>
+</h3>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=flat-square&logo=gmail)](mailto:shreyomer10@gmail.com)
+
+</div>
+
+```python
+while True:
+    idea = get_next_idea()
+    if idea.is_worth_building():
+        ship_to_production(idea)
+        # currently @ RagX + AFTR Labs
+```
+
+`fastapi` `celery` `redis` `aws`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## `> cat /var/log/achievements.log`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  [2025]  🏆  1ST PLACE       TechExpo Scientific, IIIT NR      │
+│  [2026]  🥇  5TH / 100+     Dev-Conquest, BITS Mesra           │
+│  [2025]  🎯  TOP 15 / 1000+ HackFusion, SPIT Mumbai            │
+│  [2023]  🎓  SCHOLAR         Reliance Foundation UG Scholar     │
+│  [2024]  📋  ELECTED         Cultural Secretary, SAC IIIT NR    │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `> htop --sort=contributions`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyomer10&custom_title=Contribution%20Activity&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7" width="95%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyomer10&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=a855f7&dates=555555" width="49%"/>
+<img src="https://github-readme-stats.zohan.tech/api?username=shreyomer10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=shreyomer10&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="32%"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=shreyomer10&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&combine_all_yearly_contributions=true" width="49%"/>
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:0d1117&height=120&section=footer&fontSize=14" width="100%"/>
+
+```js
+const shrey = { open_to: ["internships", "collabs", "hackathons", "freelance"] };
+if (you.liked(this)) { await Promise.all([star(repo), follow("shreyomer10")]); }
+```
+
+</div>
