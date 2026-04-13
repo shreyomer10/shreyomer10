@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:6366f1&height=220&section=header&text=SHREY%20OMER&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=backend%20engineer%20%7C%20building%20in%20production&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:1e293b&height=220&section=header&text=SHREY%20OMER&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=backend%20engineer%20%7C%20building%20in%20production&descSize=16&descColor=94a3b8&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+ssh+shrey%40production-server;%3E+deploying+fastapi+%2B+aws+%2B+docker+%2B+ai%2Fml+...)](https://shreynex.xyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+ssh+shrey%40production-server;%3E+deploying+fastapi+%2B+aws+%2B+docker+%2B+ai%2Fml+...)](https://shreynex.xyz)
 
 <br/>
 
-<a href="https://shreynex.xyz"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://leetcode.com/u/shreyomer10/"><img src="https://img.shields.io/badge/LeetCode_1674-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shreyomer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shreyomer10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=shreyomer10&style=for-the-badge&color=a855f7&label=VISITORS"/>
+<a href="https://shreynex.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/shreyomer10/"><img src="https://img.shields.io/badge/LeetCode_1674-1a1a1a?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shreyomer/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shreyomer10@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=shreyomer10&style=for-the-badge&color=0f172a&label=VISITORS"/>
 
 </div>
 
@@ -110,8 +110,8 @@ fun_facts:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/shreyomer10/wildlifeCompensation)
-[![Live](https://img.shields.io/badge/Live_Demo-a855f7?style=flat-square&logo=vercel)](https://anugraha-nine.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyomer10/wildlifeCompensation)
+[![Live](https://img.shields.io/badge/Live_Demo-1e293b?style=flat-square&logo=vercel&logoColor=white)](https://anugraha-nine.vercel.app/)
 
 </div>
 
@@ -135,7 +135,7 @@ fun_facts:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/shreyomer10/attendanceAPP_IIIT)
+[![GitHub](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyomer10/attendanceAPP_IIIT)
 
 </div>
 
@@ -161,8 +161,8 @@ fun_facts:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/shreyomer10/VoiceAgent_Omnidim)
-[![Live](https://img.shields.io/badge/Live_Demo-a855f7?style=flat-square&logo=vercel)](https://smartauction.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyomer10/VoiceAgent_Omnidim)
+[![Live](https://img.shields.io/badge/Live_Demo-1e293b?style=flat-square&logo=vercel&logoColor=white)](https://smartauction.vercel.app/)
 
 </div>
 
@@ -186,7 +186,7 @@ Building Next...
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=flat-square&logo=gmail)](mailto:shreyomer10@gmail.com)
+[![Email](https://img.shields.io/badge/Reach_Out-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyomer10@gmail.com)
 
 </div>
 
@@ -213,11 +213,11 @@ while True:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  [2025]  🏆  1ST PLACE       TechExpo Scientific, IIIT NR      │
-│  [2026]  🥇  5TH / 100+     Dev-Conquest, BITS Mesra           │
-│  [2025]  🎯  TOP 15 / 1000+ HackFusion, SPIT Mumbai            │
-│  [2023]  🎓  SCHOLAR         Reliance Foundation UG Scholar     │
-│  [2024]  📋  ELECTED         Cultural Secretary, SAC IIIT NR    │
+│  [2025]  ##  1ST PLACE       TechExpo Scientific, IIIT NR      │
+│  [2026]  ##  5TH / 100+     Dev-Conquest, BITS Mesra           │
+│  [2025]  >>  TOP 15 / 1000+ HackFusion, SPIT Mumbai            │
+│  [2023]  **  SCHOLAR         Reliance Foundation UG Scholar     │
+│  [2024]  >>  ELECTED         Cultural Secretary, SAC IIIT NR    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -229,17 +229,16 @@ while True:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyomer10&custom_title=Contribution%20Activity&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyomer10&custom_title=Contribution%20Activity&hide_border=true&bg_color=000000&color=94a3b8&line=e2e8f0&point=ffffff&area=true&area_color=0f172a&title_color=ffffff" width="95%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyomer10&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=a855f7&dates=555555" width="49%"/>
-<img src="https://github-readme-stats.zohan.tech/api?username=shreyomer10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyomer10&hide_border=true&background=000000&ring=e2e8f0&fire=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=e2e8f0&dates=475569" width="49%"/>
+<img src="https://github-readme-stats.zohan.tech/api?username=shreyomer10&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=94a3b8&text_color=94a3b8&ring_color=e2e8f0" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=shreyomer10&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="32%"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=shreyomer10&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&combine_all_yearly_contributions=true" width="49%"/>
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=shreyomer10&layout=donut-vertical&hide_border=true&bg_color=000000&title_color=ffffff&text_color=94a3b8" width="30%"/>
 
 <br/>
 
@@ -249,7 +248,7 @@ while True:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:0d1117&height=120&section=footer&fontSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:0f172a,100:000000&height=120&section=footer" width="100%"/>
 
 ```js
 const shrey = { open_to: ["internships", "collabs", "hackathons", "freelance"] };
