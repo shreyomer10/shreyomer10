@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:6366f1&height=220&section=header&text=SHREY%20OMER&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=backend%20engineer%20%7C%20building%20in%20production&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+ssh+shrey%40production-server;%3E+deploying+fastapi+%2B+aws+%2B+docker+%2B+ai%2Fml+...)](https://shreynex.xyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%24+ssh+shrey%40production-server;%3E+deploying+fastapi+%2B+aws+%2B+docker+%2B+ai%2Fml+...)](https://shreyis.online)
 
 <br/>
 
-<a href="https://shreynex.xyz"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://shreyis.online"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://leetcode.com/u/shreyomer10/"><img src="https://img.shields.io/badge/LeetCode_1674-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shreyomer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shreyomer10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://shreynex.xyz/resume.pdf"><img src="https://img.shields.io/badge/Resume-a855f7?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+<a href="https://shreyis.online/resume.pdf"><img src="https://img.shields.io/badge/Resume-a855f7?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=shreyomer10&style=for-the-badge&color=a855f7&label=VISITORS"/>
 
 </div>
@@ -34,7 +34,7 @@ currently_shipping:
   - role: Python Developer @ AFTR Labs
     building: Medical AI platform (36+ APIs, 6-queue async pipeline)
 
-resume: shreynex.xyz/resume.pdf
+resume: shreyis.online/resume.pdf
 ```
 
 <br clear="both"/>
